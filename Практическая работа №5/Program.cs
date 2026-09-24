@@ -56,7 +56,7 @@ namespace Практическая_работа__5
             catch (Exception ex)//обработка исключения Exception (все ошибки в целом)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"Что-то пошло не так! Ошибка: {ex.Message}");//Вывод текста с помощью интерполяции: Что-то пошло не так! Ошибка: (исключение об ошибке).
+                Console.WriteLine($"Что-то пошло не так! Ошибка: {ex.Message}");//Вывод текста с помощью интерполяции: Что-то пошло не так! Ошибка: сообщение об ошибке из ex.Message
                 Console.ForegroundColor = ConsoleColor.White;
             }
 
