@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="L88LKOxECPgLSsshyLCz">
-    <mxGraphModel dx="1208" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,8 +74,8 @@
             <mxPoint x="-470" y="1155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzrD1C2Irlcu4uqGPRpT-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Инициализация переменной number значение, введённое пользователем" vertex="1">
-          <mxGeometry height="70" width="140" x="-540" y="1035" as="geometry" />
+        <mxCell id="RzrD1C2Irlcu4uqGPRpT-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Присваивание переменной number значение, введённое пользователем" vertex="1">
+          <mxGeometry height="70" width="140" x="-540" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="RzrD1C2Irlcu4uqGPRpT-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Объявление целых переменных: number, digit1-digit6" vertex="1">
           <mxGeometry height="70" width="140" x="-540" y="775" as="geometry" />
@@ -252,7 +252,7 @@
           <mxGeometry height="30" width="60" x="-533" y="898" as="geometry" />
         </mxCell>
         <mxCell id="q4NLz4ens-hUHCVo6EpL-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="9" vertex="1">
-          <mxGeometry height="30" width="60" x="-540" y="1019" as="geometry" />
+          <mxGeometry height="60" width="60" x="-540" y="989" as="geometry" />
         </mxCell>
         <mxCell id="q4NLz4ens-hUHCVo6EpL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="10" vertex="1">
           <mxGeometry height="30" width="60" x="-545" y="1161" as="geometry" />
